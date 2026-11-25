@@ -293,10 +293,8 @@ END
 
 Proyecto Integrador desarrollado para la asignatura de **Métodos Numéricos**.
 
-* **Integrante 1:** *\[Tu nombre aquí\]*
+* **Integrante 1:** *\[Giovan Stefano Trujillo Nieto\]*
 
-* **Integrante 2:** *\[Nombre del compañero\]*
+* **Integrante 2:** *\[Leonardo Romero Ramirez\]*
 
-* **Integrante 3:** *\[Nombre del compañero\]*
-
-* **Integrante 4:** *\[Nombre del compañero (si aplica)\]*
+* **Integrante 3:** *\[Juan Alberto Gonzalez Rivera\]*
